@@ -56,10 +56,6 @@ Ecolumen Street Light is a **smart street lighting system** that integrates **IR
 
 ## 📷 Block Diagram  
 
-![Block Diagram](image.png)  
+![image](https://github.com/user-attachments/assets/23e364fb-0b96-49dc-a341-130e383d96a1
+  
 
----  
-
-## 🔗 Contribute & Feedback  
-
-Feel free to open issues or contribute improvements to the project! 🚀  
